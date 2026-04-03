@@ -11,6 +11,7 @@ This project adopts a modern hybrid approach, leveraging CLIP embeddings for sem
 **Methodology**
 
 Dataset Preparation:
+yes
   Used an image dataset containing both duplicate / near-duplicate pairs and non-matching image pairs
   Generated positive and negative image pairs for evaluation
   Ensured consistent preprocessing (resizing, normalization) before feature extraction
