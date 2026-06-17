@@ -1,4 +1,4 @@
-# Mirror of Maya
+# TwinPix
 **Near-Duplicate Image Detection using CLIP and Perceptual Hashing**
 
 This project focuses on detecting near-duplicate and semantically similar images using a combination of deep learning–based image embeddings and perceptual hashing techniques. 
